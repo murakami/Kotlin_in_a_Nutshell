@@ -1,6 +1,6 @@
 # Kotlin in a Nutshell Kotlin ポケットリファレンス（日本語）
 
-`TheKotlinProgrammingLanguage.md` 1ファイルにKotlinの主要な構文・機能をコンパクトにまとめた日本語リファレンスです。
+1ファイルにKotlinの主要な構文・機能をコンパクトにまとめた日本語リファレンスです。
 
 ## 目次
 
